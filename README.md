@@ -462,6 +462,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CSM](https://github.com/sanyambassi/thales-cdsp-csm-mcp-server) - MCP server for Thales CipherTrust Secrets Management
 
 <br />
+- [SpendShield](https://github.com/felixpg13-glitch/spendshield) - Policy & authorization layer for AI agent spending: ALLOW/APPROVAL/DENY decisions with reason codes, policy lifecycle, tamper-evident audit. MCP server included.
 
 ## 🔌 <a name="iot"></a>IoT
 
